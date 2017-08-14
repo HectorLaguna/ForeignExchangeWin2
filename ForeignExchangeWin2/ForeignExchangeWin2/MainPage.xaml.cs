@@ -38,6 +38,7 @@ namespace ForeignExchangeWin2
             DollarsEntry.Text = string.Format("${0:N}", dollars);
             EurosEntry.Text = string.Format("€{0:N}", euros);
             PoundsEntry.Text = string.Format("£{0:N}", pounds);
+
         }
     }
 }
